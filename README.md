@@ -1,0 +1,11 @@
+Anomaly detection on the "Credit Card Fraud Detection Dataset "Anomaly detection on the "Credit Card Fraud Detection Dataset"
+
+May 2023 - Aug 2023 
+
+Associated with Trent University Associated with Trent University
+
+The aim is to identifying unusual or fraudulent transactions within a dataset containing credit card transaction records. This task is crucial for financial institutions and businesses to detect and prevent fraudulent activities, ultimately protecting both customers and the organization. 
+
+The analysis begins by loading and exploring the dataset. This includes examining the dataset's structure, checking for missing values, and understanding the distribution of normal (non-fraudulent) and fraudulent transactions. Before applying anomaly detection techniques, data preprocessing steps are performed. This may involve handling missing values, normalizing data, and selecting relevant features for analysis. Two common anomaly detection techniques, such as Local Outlier Factor and Z-score, are applied to the dataset. These techniques aim to identify transactions that deviate significantly from the normal behavior of credit card transactions. The performance of each anomaly detection technique is assessed using various evaluation metrics, including precision, recall, F1-score, and the area under the Receiver Operating Characteristic (ROC) curve. These metrics help measure the accuracy of fraud detection and its ability to minimize false positives and false negatives. The results obtained from applying the anomaly detection techniques are discussed and analyzed. Insights into the dataset, such as class imbalance and transaction amount distribution, are highlighted. Based on the results and insights, further refinement of the models is often necessary. This may involve adjusting model parameters, exploring additional features, or employing more advanced machine learning methods.
+
+The Project concludes by summarizing key findings and emphasizing the importance of accurate fraud detection in credit card transactions. It also discusses future directions for improving fraud detection models and maintaining the security of financial transactions.
